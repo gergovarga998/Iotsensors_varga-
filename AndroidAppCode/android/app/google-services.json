@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "812283309594",
+    "firebase_url": "https://iot-sensors-b0a63-default-rtdb.firebaseio.com",
+    "project_id": "iot-sensors-b0a63",
+    "storage_bucket": "iot-sensors-b0a63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812283309594:android:74f1853ef46d5cbd39aba3",
+        "android_client_info": {
+          "package_name": "com.example.iotsensors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiKd2-JlQpJiOGPKu87ENeoowK1aNaICs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
